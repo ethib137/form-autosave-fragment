@@ -1,5 +1,5 @@
 Bundle-Name: form-autosave-fragment
 Bundle-SymbolicName: form.autosave.fragment
 Bundle-Version: 1.0.0
-Fragment-Host: com.liferay.dynamic.data.mapping.form.web;bundle-version="1.0.34.hotfix-62-7110"
+Fragment-Host: com.liferay.dynamic.data.mapping.form.web;bundle-version="1.0.42"
 -sources: true

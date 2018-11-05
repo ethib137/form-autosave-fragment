@@ -239,7 +239,7 @@ long formInstanceId = ddmFormDisplayContext.getFormInstanceId();
 
 								<portlet:namespace />formValues = JSON.stringify(<portlet:namespace />form.toJSON());
 
-								<portlet:namespace />intervalId = setInterval(<portlet:namespace />checkFormChange, 100);
+								<portlet:namespace />intervalId = setInterval(<portlet:namespace />checkFormChange, 200);
 							}
 
 							<portlet:namespace />form = Liferay.component('<%= ddmFormDisplayContext.getContainerId() %>DDMForm');
